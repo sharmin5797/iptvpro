@@ -142,7 +142,7 @@ http://xtv.ooo:8080/live/Irfan99383/8888/206271.ts
 #EXTINF:-1 tvg-logo="https://watchindia.net/images/channels/hindi/Zee_Cinema_HD.png" tvg-chno="71",Zee Cinema HD
 http://xtv.ooo:8080/live/Irfan99383/8888/109958.ts
 #EXTINF:-1 tvg-chno="72",ZEE ACTION
-http://xtv.ooo:8080/live/Irfan99383/8888/66191.ts
+http://mag.trexlive.me:80/play/live.php?mac=00:1A:79:6C:3E:2D&stream=156139&extension=ts&play_token=3NKWLANRtw
 #EXTINF:-1 tvg-chno="73",Zee Anmol Cinema
 http://xtv.ooo:8080/live/Irfan99383/8888/66187.ts
 #EXTINF:-1 tvg-chno="74",B4U Movies
